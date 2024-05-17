@@ -12,7 +12,8 @@ Gradio, a user-friendly library, is utilized to create an interactive interface 
 
 Overall, this project combines data preprocessing, machine learning modeling with Random Forests, model evaluation, and user interface development to create a comprehensive solution for insurance price prediction."
 
+Interface of our project:
 
 
-
+![insurance](https://github.com/rohitmourya20/Insurance_price_prediction/assets/170001383/bf2b6a32-8998-4264-be5e-314944cd52b2)
 
